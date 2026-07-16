@@ -34,5 +34,5 @@ Para ejecutar el script técnico de manera local y replicar los resultados, aseg
 
 1. **Clonar este repositorio:**
    ```bash
-   git clone [https://github.com/tu-usuario/desafio-descriptiva-videojuegos.git](https://github.com/tu-usuario/desafio-descriptiva-videojuegos.git)
+   git clone [https://github.com/ValeriaPFR/Desafio8_AnalisisExploratorioEstadisticaDescriptiva_RTD-25-01-13-0058-4.git]
    cd desafio-descriptiva-videojuegos
